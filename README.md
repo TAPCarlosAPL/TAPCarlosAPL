@@ -56,30 +56,6 @@ const carlos = {
 
 ---
 
-## 🌟 Projeto em Destaque
-
-### Chatbot IA — Suporte TI
-> Assistente inteligente com busca semântica via embeddings (Sentence Transformers + PyTorch), interface dark mode em CustomTkinter e distribuição como `.exe` standalone via PyInstaller.
-
-[![chatbot-python](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/TAPCarlosAPL/chatbot-python)
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TAPCarlosAPL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAPCarlosAPL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAPCarlosAPL&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
